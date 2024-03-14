@@ -1,0 +1,10 @@
+Loan ID,Customer ID,Loan Status,Current Loan Amount,Term,Credit Score,Years in current job,Home Ownership,Annual Income,Purpose,Monthly Debt,Years of Credit History,Months since last delinquent,Number of Open Accounts,Number of Credit Problems,Current Credit Balance,Maximum Open Credit,Bankruptcies,Tax Liens
+6cf51492-02a2-423e-b93d-676f05b9ad53,7c202b37-2add-44e8-9aea-d5b119aea935,Loan Rejected,12232,0,7280,0,0,46643,0,777.39,18.0,10.0,12,0,6762,7946,0,0
+552e7ade-4292-4354-9ff9-c48031697d72,e7217b0a-07ac-47dd-b379-577b5a35b7c6,Loan Rejected,25014,1,7330,1,1,81099,0,892.09,26.7,,14,0,35706,77961,0,0
+9b5e32b3-8d76-4801-afc8-d729d5a2e6b9,0a62fc41-16c8-40b5-92ff-9e4b763ce714,Loan Rejected,16117,0,7240,2,1,60438,1,1244.02,16.7,32.0,11,1,11275,14815,1,0
+5419b7c7-ac11-4be2-a8a7-b131fb6d6dbe,30f36c59-5182-4482-8bbb-5b736849ae43,Loan Rejected,11716,0,7400,3,0,34171,0,990.94,10.0,,21,0,7009,43533,0,0
+1450910f-9495-4fc9-afaf-9bdf4b9821df,70c26012-bba5-42c0-8dcb-75295ada31bb,Loan Rejected,9789,1,6860,1,1,47003,1,503.71,16.7,25.0,13,1,16913,19553,1,0
+7e9f6759-6a13-48ef-adfa-ef9fbcfcfcc8,05301ee5-29ec-48b6-b3e5-0813ea25d684,Loan Rejected,11911,0,7420,4,1,70475,2,886.81,17.7,,13,0,28212,59897,0,0
+c2b0aa3e-555b-441b-a4aa-e0e4a52c87d3,db3e74ec-2123-4608-be8d-a93e98cabfcf,Loan Rejected,28988,0,7420,3,1,58074,0,871.11,22.8,,9,0,14423,54018,0,0
+233e0119-6dfe-47c0-a212-b4cc00371c8d,def66e46-951e-4bff-bf96-87ae6e092e19,Loan Rejected,17705,1,6630,3,2,49180,0,274.59,30.2,,10,1,4252,25012,1,0
+fc9d109b-15c2-4fe3-b7d8-27610b89f80b,f54c53e4-acd7-4e29-8f55-d2a247a4b62a,Loan Rejected,16812,0,7360,5,0,50945,0,590.12,14.6,,9,0,12903,15379,0,0

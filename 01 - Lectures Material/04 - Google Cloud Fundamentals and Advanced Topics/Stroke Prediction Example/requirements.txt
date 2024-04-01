@@ -1,0 +1,5 @@
+gunicorn>=19.9.0
+pandas>=1.5.3
+scikit-learn>=1.3.0
+flask>=2.1.0
+flasgger>=0.9.7.1
